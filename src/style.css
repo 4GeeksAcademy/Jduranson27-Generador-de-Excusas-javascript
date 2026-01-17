@@ -3,3 +3,16 @@
 body{
     background: white;
 }
+
+main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+main p {
+    font-size: 2rem;
+    font-weight: bold;
+}
